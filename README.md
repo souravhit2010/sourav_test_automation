@@ -1,3 +1,3 @@
 # sourav_test_automation
 
-This repository is to practice Jenkins
+This repository is to practice Jenkins Demo
