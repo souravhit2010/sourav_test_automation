@@ -14,7 +14,7 @@ public class RestApiTest {
 		
 		if(response.getStatusCode()==200)
 		{
-			System.out.println("Service is returning 200 Success response");
+			System.out.println("Service is returning 200 Success response successfully");
 		}
 		else
 		{
