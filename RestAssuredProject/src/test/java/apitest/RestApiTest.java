@@ -8,7 +8,7 @@ import io.restassured.response.Response;
 public class RestApiTest {
 	
 	@Test
-	public void test01()
+	public void test02()
 	{
 		Response response = RestAssured.get("https://reqres.in/api/users?page=2");
 		
